@@ -1,0 +1,7 @@
+{
+  "name": "VibeSync - AI Music Matcher",
+  "description": "An intelligent audio analyzer that listens to music, analyzes rhythm, tempo, and flow, and recommends tracks with the exact same vibe using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
